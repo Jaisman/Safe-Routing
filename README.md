@@ -50,7 +50,7 @@ Identifies unlit high-risk zones where crime risk is higher due to poor lighting
 
 1️⃣ Clone the repository
 
-git clone https://github.com/yourusername/safe-route.git
+git clone https://github.com/Jaisman/Safe-Routing.git
 
 cd safety-navigator
 
