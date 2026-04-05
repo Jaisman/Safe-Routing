@@ -56,6 +56,7 @@ cd safety-navigator
 
 2️⃣ Install dependencies
 
+npm install 
 npm install react-leaflet
 
 3️⃣ Configure environment variables
