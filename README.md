@@ -52,24 +52,25 @@ Identifies unlit high-risk zones where crime risk is higher due to poor lighting
 
 git clone https://github.com/yourusername/safe-route.git
 
-cd safe-route
+cd safety-navigator
 
 2️⃣ Install dependencies
 
-npm install
+npm install react-leaflet
 
 3️⃣ Configure environment variables
 
 Create a .env file:
 
 ORS_API_KEY=your_openrouteservice_api_key
+MONGO_URI=your_mongodb_uri
 
 4️⃣ Run the server
 
-npm start
+npm run dev
 
 Server will run on:
 
-http://localhost:3000
+http://localhost:5000
 
 
