@@ -59,6 +59,8 @@ cd safety-navigator
 npm install 
 npm install react-leaflet
 
+(please make sure to run seed_india_districts.py and generateCrime.js present in the scrape folder to add entries of districts and crimes in the mongoDB first)
+
 3️⃣ Configure environment variables
 
 Create a .env file:
